@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Ola seja bem vindo querides 👋
+eu sou janaine e estou estudando os cursos do alura
 <!--
 **sccpjana/sccpjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
